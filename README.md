@@ -1,3 +1,3 @@
-# Spring Boot Microsservices
+# Spring Boot Microservices
 
-Projeto para acompanhamento de curso de microserviços do canal DevDojo.
+Projeto para acompanhamento de curso de microservices do canal DevDojo.
