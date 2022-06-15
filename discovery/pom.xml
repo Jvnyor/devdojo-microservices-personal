@@ -13,12 +13,12 @@
 	<artifactId>discovery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>discovery</name>
-	<description>DevDojo Service Discovery </description>
+	<description>DevDojo's Service Discovery </description>
 
 	<properties>
 		<java.version>11</java.version>
 		<jaxb-api.version>2.3.1</jaxb-api.version>
-		<javax-activation.version>1.1.1</javax-activation.version>
+		<javax-activation-api.version>1.2.0</javax-activation-api.version>
 		<jaxb-runtime.version>4.0.0</jaxb-runtime.version>
 	</properties>
 
@@ -34,8 +34,8 @@
 		</dependency>
 		<dependency>
 			<groupId>javax.activation</groupId>
-			<artifactId>activation</artifactId>
-			<version>${javax-activation.version}</version>
+			<artifactId>javax.activation-api</artifactId>
+			<version>${javax-activation-api.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.glassfish.jaxb</groupId>
